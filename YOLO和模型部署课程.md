@@ -135,7 +135,7 @@ YOLO框架可以分为以下几个主要部分：
      
      - 效果如下就成功了
      
-       ![image-20250226181702815](C:\Users\zhj\AppData\Roaming\Typora\typora-user-images\image-20250226181702815.png)
+       ![image-20250226181702815](image-20250226181702815.png)
      
        **性能优化**：
      
